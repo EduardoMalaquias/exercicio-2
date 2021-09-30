@@ -1,0 +1,8 @@
+body, html{
+    margin: 0;
+    padding: 25px;
+}
+
+table, td {
+    border: 1px solid black;
+}
